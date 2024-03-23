@@ -5,5 +5,5 @@ os
 streamlit
 Matplotlib
 PIL
-cv2
+opencv - python
 Mediapipe
